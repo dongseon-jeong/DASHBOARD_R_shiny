@@ -10,21 +10,21 @@ FILTERED_MALLID : 세그먼트를 선택할 경우 해당 몰ID 파악
 
 
 >MALL_CLUSTER : 유사 몰 군집의 리뷰 긍부정 비율 파악을 위해 kmeans clustering  
-![Untitled](img/Untitled1.png)
+![Untitled](img/untitled1.png)
 
 
 NEW_FILTERED_MALL : 선택한 클러스터에 해당하는 몰ID 파악  
 
 >CMALL_STATUS : 선택한 클러스터에 해당하는 몰 정보  
-![Untitled](img/Untitled4.png)
+![Untitled](img/untitled4.png)
 
 
 CNP_STATUS : 선택한 클러스터에 해당하는 몰의 키워드 긍부정 키워드 수  
 
 >REVIEW_DATA_HIST : 배송완료 소요 시간 파악  
-![Untitled](img/Untitled3.png)
+![Untitled](img/untitled3.png)
 
 
 >CNP_boxplot : 선택한 클러스터에 해당하는 몰의 키워드 긍부정 키워드 수 박스 플롯  
-![Untitled](img/Untitled2.png)
+![Untitled](img/untitled2.png)
 
